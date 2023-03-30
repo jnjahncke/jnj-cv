@@ -1,0 +1,417 @@
+---
+title: "Jennifer Jahncke's resume"
+author: Jennifer Jahncke
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    css:
+      - www/override.css
+      # - resume
+# uncomment this line to produce HTML and PDF in RStudio:
+# knit: pagedown::chrome_print
+---
+
+# Aside
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> [jahncke\@ohsu.edu](mailto:jahncke@ohsu.edu){.email}
+-   <i class="fa fa-phone"></i> +1 925-895-2421
+-   <i class="fa fa-link"></i> [jennifer-jahncke.netlify.app](https://jennifer-jahncke.netlify.app/)
+-   <i class="fa fa-github"></i> [github.com/jnjahncke](https://github.com/jnjahncke)
+-   &nbsp;`r fontawesome::fa(name = "orcid")` [0000-0003-2319-6109](https://orcid.org/0000-0003-2319-6109)
+
+<br>
+
+## Skills {#skills}
+
+-   `r fontawesome::fa(name = "code")` R, Python, Bash, Git
+
+-   `r fontawesome::fa(name = "chart-line")` Statistical analysis
+
+-   `r fontawesome::fa(name = "microscope")` IHC + Microscopy
+
+-   `r fontawesome::fa(name = "bolt-lightning")` Slice electophysiology
+
+-   `r fontawesome::fa(name = "flask-vial")` Biochemistry
+
+-   `r fontawesome::fa(name = "dna")` Mouse genetics
+
+::: {style="font-size: 0.65rem"}
+*Extended skills: genetic manipulation (in mouse), immunohistochemistry, confocal microscopy, electrophysiology, biochemistry, immunoprecipitation, SDS-PAGE, western blot, virus design, intracerebroventricular virus injection, primer design, PCR, 2-photon microscopy, glutamate uncaging, organotypic slice culture, biolistic transfection, genetically encoded fluorescent biosensors, experimental design, data analysis, figure design, Adobe Photoshop, Adobe Illustrator, R, Python, Bash, Git*
+:::
+
+<br>
+
+## References {#skills}
+
+**Kevin M. Wright, PhD** \
+<i class='fa fa-map-marker-alt'></i> Vollum Institute, OHSU \
+<i class='fa fa-envelope'></i> [wrighke@ohsu.edu](mailto:wrighke@ohsu.edu)
+<br>
+
+**Eric Schnell, MD, PhD** \
+<i class='fa fa-map-marker-alt'></i> Anesthesiology and Perioperative Medicine, School of Medicine, OHSU \
+<i class='fa fa-envelope'></i> [schneler@ohsu.edu](mailto:schneler@ohsu.edu)
+<br>
+
+**Karen Zito, PhD** \
+<i class='fa fa-map-marker-alt'></i> Center for Neuroscience, UC Davis \
+<i class='fa fa-envelope'></i> [kzito@ucdavis.edu](mailto:kzito@ucdavis.edu)
+
+<!-- ## Honors {#skills} -->
+
+<!-- -   2020-2023 Ruth L. Kirschstein National Research Service Award -->
+
+<!-- -   2020 NSF GRFP Honorable Mention -->
+
+<!-- -   ARCS Foundation Scholar -->
+
+<!-- -   Phi Beta Kappa -->
+
+<br><br>
+<!-- *References are available upon request.* -->
+
+
+
+## Disclaimer {#disclaimer}
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Jennifer Jahncke {#title}
+
+`r fontawesome::fa(name = "location-dot")` Portland, OR
+
+<!-- ### Currently searching for a PhD student position -->
+
+<!-- Please note that this is a *real* resume, and I'm really looking for a PhD -->
+
+<!-- student position at the moment. I made this resume because Yihui asked me -->
+
+<!-- if I'd like to test the **pagedown** package with my resume. If you are -->
+
+<!-- interested in my background and skills, please feel free to contact me. -->
+
+## Education {data-icon="graduation-cap" data-concise="true"}
+
+### Oregon Health & Science University
+
+PhD in Neuroscience
+
+Portland, OR
+
+Present - 2018
+
+-   Advisor: Kevin M. Wright, PhD, Vollum Institute, OHSU
+
+### University of California, Davis
+
+BS in Psychology, Minor in Neuroscience
+
+Davis, CA
+
+2014 - 2010
+
+-   Genetics study abroad program in Cambridge, UK and Stockholm, Sweden (Summer 2012)
+
+### Selected Courses
+
+::: Concise
+-   Programming for Biology, CSHL, 2022, Cold Spring Harbor, NY
+-   Biostatistics, OHSU, 2020, Portland, OR
+-   Data Visualization, OHSU, 2020, Portland, OR
+-   Practice and Ethics of Science, OHSU, 2018, Portland, OR
+-   Light and Fluorescence Microscopy, UC Davis, 2017, Davis, CA
+:::
+
+N/A
+
+
+
+## Research Experience {data-icon="laptop"}
+
+### Graduate Student Researcher
+
+Neuroscience Graduate Program, OHSU
+
+Portland, OR
+
+Present - 2018
+
+::: Concise
+-   Functional characterization of the scaffolding protein Dystroglycan at inhibitory synapses across the brain in mouse models of dystroglycanopathy.
+-   Identified novel interacting partners of Dystroglycan in the central nervous system.
+-   Use of R, Python, and Igor to automate data analysis.
+:::
+
+### Staff Research Associate
+
+Zito & Fioravante Labs, UC Davis
+
+Davis, CA
+
+2018 - 2014
+
+::: Concise
+-   Characterization of genetically encoded fluorescent glutamate sensors using 2-photon glutamate uncaging on dendritic spines in CA1 of the hippocampus.
+-   Elucidation of a novel protein signaling cascade in non-ionotropic NMDA receptor mediated LTD.
+:::
+
+<!-- ::: {.aside style="font-size: 0.65rem"} -->
+<!-- *Extended skills: genetic manipulation (in mouse), immunohistochemistry, confocal microscopy, electrophysiology, biochemistry, virus design, intracerebroventricular virus injection, flurothyl seizure induction paradigm, primer design, PCR, 2-photon microscopy, glutamate uncaging, organotypic slice culture, biolistic transfection, figure design, R, Python, Bash, Git* -->
+<!-- ::: -->
+
+### Undergraduate Research Assistant
+
+Trimmer & Trainor Labs, UC Davis
+
+Davis, CA
+
+2014 - 2011
+
+::: Concise
+-   Independent project: Profiling expression and localization of Kv2.1 & Kv2.2 voltage gated potassium channels in the developing rat hippocampus.
+-   Assisted in a study investigating the role of D1 dopamine receptors in social withdrawal behavior associated with anxiety and depression.
+-   Assisted in a project investigating kappa opioid receptors as a mechanism for behavioral differences between the sexes in response to stress.
+:::
+
+\newpage
+
+::: aside
+<span style="font-weight: 575; font-size: 1.1rem">HONORS</span>
+<br>
+
+2020-2023 Ruth L. Kirschstein National Research Service Award
+
+2020 NSF GRFP Honorable Mention
+
+ARCS Foundation Scholar
+
+Phi Beta Kappa
+:::
+
+## Teaching Experience {data-icon="chalkboard-teacher"}
+
+### OHSU NGP Bootcamp: Patch Clamp Electrophysiology
+
+Hands on patch clamp instruction.
+
+Portland, OR
+
+2021
+
+
+### Graduate Level TA Positions
+
+Biostatistics (CONJ 620) Winter 2020, OHSU<br>Cellular Neurophysiology (NEUS 624) Fall 2019, OHSU
+
+Portland, OR
+
+2020, 2019
+
+### MBL Neurobiology, Imaging Section
+
+Teaching assistant at the Marine Biological Laboratory Neurobiology Course for the imaging section.
+
+Woods Hole, MA
+
+2018
+
+
+## Publications {data-icon="file-invoice"}
+
+### An adhesion signaling axis regulates the establishment of the cortical glial scaffold.
+
+Wong W, Estep JA, Treptow AM, Rajabli N, **Jahncke JN**, Ubina T, Wright KM, Riccomagno MM. bioRxiv 24 March 2023; https://doi.org/10.1101/2022.08.02.502565
+
+N/A
+
+2023
+
+### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
+
+**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. bioRxiv 28 February 2023; doi: https://doi.org/10.1101/2022.01.26.477791
+
+N/A
+
+2023
+
+### The many roles of dystroglycan in nervous system development and function.
+
+**Jahncke JN**, Wright KW. Developmental Dynamics. 2023; 252( 1): 61- 80. doi: [10.1002/dvdy.516](https://doi.org/10.1002/dvdy.516)
+
+N/A
+
+2023
+
+### Shared and Distinct Functional Effects of Patient-Specific Tbr1 Mutations on Cortical Development.
+
+Co M, Barnard RA, **Jahncke JN**, Grindstaff S, Fedorov LM, Adey AC, Wright KM, O’Roak BJ. Journal of Neuroscience 14 September 2022, 42 (37) 7166-7181; doi: [10.1523/JNEUROSCI.0409-22.2022](https://doi.org/10.1523/JNEUROSCI.0409-22.2022)
+
+N/A
+
+2022
+
+### Molecular Mechanisms of Non-ionotropic NMDA Receptor Signaling in Dendritic Spine Shrinkage.
+
+Stein IS, Park DK, Flores JC, **Jahncke JN**, Zito K. Journal of Neuroscience 22 April 2020, JN-RM-0046-20; doi: [10.1523/JNEUROSCI.0046-20.2020](https://doi.org/10.1523/JNEUROSCI.0046-20.2020)
+
+N/A
+
+2020
+
+### A Dual Role for the RhoGEF Ephexin5 in Regulation of Dendritic Spine Outgrowth.
+
+Hamilton AM, Lambert JT, Parajuli LK, Vivas O, Park DK, Stein IS, **Jahncke JN**, Greenberg ME, Margolis SS, Zito K. Molecular and Cellular Neuroscience 80 (2017): 66-7 doi: [10.1016/j.mcn.2017.02.001](https://doi.org/10.1016/j.mcn.2017.02.001)
+
+N/A
+
+2017
+
+
+## Talks {data-icon="microphone"}
+
+### Inhibitory Basket Synapse Formation in Mouse Models of Dystroglycanopathy
+
+Vollum Works In Progress
+
+Portland, OR
+
+2023
+
+### A functional role for Dystroglycan at inhibitory cerebellar synapses
+
+Vollum Works In Progress
+
+Virtual
+
+2021
+
+### Dystroglycan: a scaffold for inhibitory synapses in cerebellar cortex
+
+Vollum Works In Progress
+
+Virtual
+
+2020
+
+## Abstracts {data-icon="object-group"}
+
+### Dystrogycan is necessary for the formation of functional inhibitory CCK+/CB1R+ basket synapses in hippocampus.
+
+**Jahncke JN**, Miller DS, Schnell E, Wright KM. CSHL Molecular Mechanisms of Neuronal Connectivity
+
+Cold Spring Harbor, NY
+
+2022
+
+### Purkinje cell Dystroglycan may promote the function of inhibitory basket synapses in cerebellar cortex.
+
+**Jahncke JN**, Schnell E, Wright KM. CSHL Molecular Mechanisms of Neuronal Connectivity
+
+Cold Spring Harbor, NY
+
+2020
+
+### Non ionotropic NMDA receptor signaling mechanisms driving dendritic spine plasticity.
+
+Stein IS, Park DK, **Jahncke JN**, Zito K. Society for Neuroscience
+
+Chicago, IL
+
+2019
+
+### Genetically-encoded glutamate sensors for monitoring large populations of individual synapses in vivo.
+
+Mizuno GO, Dong C, **Jahncke JN**, Natan R, Papadopoulos S, Jaffe D, Lambert JT, Ji N, Zito K, Tian . Fourth Annual Brain Initiative Investigators Meeting
+
+Bethesda, MD
+
+2018
+
+## Volunteer & Mentorship Experience {data-icon="users"}
+
+### Alliance for Visible Diversity (AVDS)
+
+Communications Committee Member
+
+Portland, OR
+
+Present - 2020
+
+<!-- ::: aside -->
+<!-- AVDS is a largely student-run group at OHSU that works to promote diversity, equity, and inclusion at OHSU through community building, education, advocacy, and policy. I serve on the communications committee where I maintain the AVDS website and calendar. -->
+<!-- ::: -->
+
+### OHSU Graduate School Organization (GSO) <br>Peer Mentoring Program
+
+Peer Mentor
+
+Portland, OR
+
+2022 - 2019
+
+<!-- The GSO Peer Mentoring Program matches first year graduate students with peer mentors and provides mentors with monthly mentoring materials. I have participated as a peer mentor since the first year the program was offered and have had a great experience getting to know my mentees and helping them navigate their first year of graduate school. -->
+
+### Women In Science PDX (WIS)
+
+STEMpowerment Committee Member
+
+Portland, OR
+
+2020 - 2019
+
+<!-- ::: aside -->
+<!-- We worked with local schools and other organizations to bring hands on educational STEM materials to schools, after-school programs, science fairs, etc. We had simple science experiments designed for multiple age ranges from elementary school to high school aged youths. -->
+<!-- ::: -->
+
+### NGP Alumni Invite Committee
+
+Committee Member
+
+Portland, OR
+
+2019 - 2018
+
+<!-- *A small committee of Neuroscience Graduate Program (NGP) students who invite past NGP graduates to visit, talk about their career trajectory, and meet with students/trainees.* -->
+
+
+### Brain Awareness Week - Davis Chapter
+
+Event Organizer, Volunteer
+
+Davis, CA
+
+2018 - 2015
+
+<!-- Organized BAW events, volunteered at the Farmer's Market, and volunteered at the Neuro Fest microscopy and anatomy booths. -->
+
+<!-- -   We hosted public seminars to discuss topics in a variety of neuroscience subfields. I hosted a table with two epifluorescent microscopes to show people brain cells in a variety of tissues and staining techniques. We discussed the anatomy of different types of brain cells throughout the brain and how they communicate to one another. -->
+<!-- -   During public seminars designed to explore neuroscience in an approachable way I had sheep brains and cow eyes, bisected in multiple ways in order to teach the public about brain and eye anatomy (and how they connect) and general regional function -->
+<!-- -   I recruited grad students and undergraduates to help teach passersby about brain anatomy, cell types, comparative anatomy, visual illusions, and more. We also made ourselves available to answer any questions that people might have about the brain. -->
+
+### UC Davis Neurobiology, Physiology, & Behavior Club
+
+Guest Speaker
+
+Davis, CA
+
+2015
+
+<!-- ::: aside -->
+<!-- I briefly taught undergraduates about gross brain anatomy and touched on comparative neuroanatomy. I also discussed why we might use a certain species' nervous system as our model system. I had fixed sheep brain specimen for the undergrads to handle and try to identify structures. -->
+<!-- ::: -->
+
+### Undergraduate Researcher Mentor
+
+Mentored two undergraduates in the lab setting, overseeing their independent research projects and providing support through poster presentations, fellowship applications, and career development.
+
+Davis, CA
+
+2018 - 2014
