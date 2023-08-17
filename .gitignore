@@ -1,4 +1,5 @@
 resume-everything_files/
+.gitignore
 
 # History files
 .Rhistory
