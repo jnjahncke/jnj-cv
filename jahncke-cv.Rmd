@@ -123,6 +123,7 @@ Davis, CA
 ### Selected Courses
 
 ::: Concise
+-   Neurohackademy, UW, 2023, Seattle, WA
 -   Programming for Biology, CSHL, 2022, Cold Spring Harbor, NY
 -   Biostatistics, OHSU, 2020, Portland, OR
 -   Data Visualization, OHSU, 2020, Portland, OR
@@ -198,6 +199,33 @@ Phi Beta Kappa
 
 ## Teaching Experience {data-icon="chalkboard-teacher"}
 
+### OHSU NGP Bootcamp: Model Organisms
+
+Hands on dissection of mouse and sheep brains.
+
+Portland, OR
+
+2023
+
+
+### Rigor and Reproducibility in Light Microscopy
+
+Lecture on best practices in light microscopy, aimed at incoming neuroscience graduate students.
+
+Portland, OR
+
+2023
+
+
+### OHSU MD Foundations of Medicine: Nervous System and Function
+
+Instruction of first year medical students learning about brain structure and function. Taught human cerebellum and brain stem anatomy in a hands on lab working with donated specimen.
+
+Portland, OR
+
+2023
+
+
 ### OHSU NGP Bootcamp: Patch Clamp Electrophysiology
 
 Hands on patch clamp instruction.
@@ -215,6 +243,7 @@ Portland, OR
 
 2020, 2019
 
+
 ### MBL Neurobiology, Imaging Section
 
 Teaching assistant at the Marine Biological Laboratory Neurobiology Course for the imaging section.
@@ -226,9 +255,10 @@ Woods Hole, MA
 
 ## Publications {data-icon="file-invoice"}
 
-### An adhesion signaling axis regulates the establishment of the cortical glial scaffold.
+### An adhesion signaling axis involving Dystroglycan, β1-Integrin, and Cas adaptor proteins regulates the establishment of the cortical glial scaffold.
 
-Wong W, Estep JA, Treptow AM, Rajabli N, **Jahncke JN**, Ubina T, Wright KM, Riccomagno MM. bioRxiv 24 March 2023; https://doi.org/10.1101/2022.08.02.502565
+Wong W, Estep JA, Treptow AM, Rajabli N, **Jahncke JN**, Ubina T, Wright KM, Riccomagno MM. PLoS Biol. 2023 Aug 4;21(8):e3002212. doi: 10.1371/journal.pbio.3002212
+
 
 N/A
 
@@ -236,7 +266,7 @@ N/A
 
 ### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
 
-**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. bioRxiv 28 February 2023; doi: https://doi.org/10.1101/2022.01.26.477791
+**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. eLife. 2023 May 16; 12:RP87965. doi: 10.7554/eLife.87965.1
 
 N/A
 
