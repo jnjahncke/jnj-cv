@@ -188,6 +188,8 @@ Davis, CA
 <span style="font-weight: 575; font-size: 1.1rem">HONORS</span>
 <br>
 
+2023-2024 OHSU School of Medicine N.L. Tartar Trust Research Fellowship
+
 2020-2023 Ruth L. Kirschstein National Research Service Award
 
 2020 NSF GRFP Honorable Mention
@@ -257,7 +259,7 @@ Woods Hole, MA
 
 ### An adhesion signaling axis involving Dystroglycan, β1-Integrin, and Cas adaptor proteins regulates the establishment of the cortical glial scaffold.
 
-Wong W, Estep JA, Treptow AM, Rajabli N, **Jahncke JN**, Ubina T, Wright KM, Riccomagno MM. PLoS Biol. 2023 Aug 4;21(8):e3002212. doi: 10.1371/journal.pbio.3002212
+Wong W, Estep JA, Treptow AM, Rajabli N, **Jahncke JN**, Ubina T, Wright KM, Riccomagno MM. PLoS Biol. 2023 Aug 4;21(8):e3002212. doi: [10.1371/journal.pbio.3002212](https://doi.org/10.1371/journal.pbio.3002212)
 
 
 N/A
@@ -266,7 +268,7 @@ N/A
 
 ### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
 
-**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. eLife. 2023 May 16; 12:RP87965. doi: 10.7554/eLife.87965.1
+**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. eLife. 2023 May 16; 12:RP87965. doi: [10.7554/eLife.87965.1](https://doi.org/10.7554/eLife.87965.1)
 
 N/A
 
