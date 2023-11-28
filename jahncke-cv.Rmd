@@ -61,7 +61,10 @@ output:
 <i class='fa fa-map-marker-alt'></i> Center for Neuroscience, UC Davis \
 <i class='fa fa-envelope'></i> [kzito@ucdavis.edu](mailto:kzito@ucdavis.edu)
 
+
 <!-- ## Honors {#skills} -->
+
+<!-- -   2023 Tartar Trust OHSU School of Medicine N.L. Tartar Trust Fellowship -->
 
 <!-- -   2020-2023 Ruth L. Kirschstein National Research Service Award -->
 
@@ -106,7 +109,7 @@ PhD in Neuroscience
 
 Portland, OR
 
-Present - 2018
+2024 - 2018
 
 -   Advisor: Kevin M. Wright, PhD, Vollum Institute, OHSU
 
@@ -164,9 +167,6 @@ Davis, CA
 -   Elucidation of a novel protein signaling cascade in non-ionotropic NMDA receptor mediated LTD.
 :::
 
-<!-- ::: {.aside style="font-size: 0.65rem"} -->
-<!-- *Extended skills: genetic manipulation (in mouse), immunohistochemistry, confocal microscopy, electrophysiology, biochemistry, virus design, intracerebroventricular virus injection, flurothyl seizure induction paradigm, primer design, PCR, 2-photon microscopy, glutamate uncaging, organotypic slice culture, biolistic transfection, figure design, R, Python, Bash, Git* -->
-<!-- ::: -->
 
 ### Undergraduate Research Assistant
 
@@ -268,7 +268,7 @@ N/A
 
 ### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
 
-**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. eLife. 2023 May 16; 12:RP87965. doi: [10.7554/eLife.87965.1](https://doi.org/10.7554/eLife.87965.1)
+**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. eLife. 2023 May 16; 12:RP87965. doi: [10.7554/eLife.87965.2](https://doi.org/10.7554/eLife.87965.2)
 
 N/A
 
@@ -308,6 +308,14 @@ N/A
 
 
 ## Talks {data-icon="microphone"}
+
+### A conserved role for Dystroglycan at inhibitory synapses across multiple brain regions
+
+Vollum Works In Progress
+
+Portland, OR
+
+2023
 
 ### Inhibitory Basket Synapse Formation in Mouse Models of Dystroglycanopathy
 
