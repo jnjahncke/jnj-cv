@@ -112,6 +112,7 @@ Portland, OR
 2024 - 2018
 
 -   Advisor: Kevin M. Wright, PhD, Vollum Institute, OHSU
+-   Anticipated graduation March 2024
 
 ### University of California, Davis
 
@@ -187,6 +188,7 @@ Davis, CA
 ::: aside
 <span style="font-weight: 575; font-size: 1.1rem">HONORS</span>
 <br>
+2023 Vollum/NGP Paper of the Year
 
 2023-2024 OHSU School of Medicine N.L. Tartar Trust Research Fellowship
 
@@ -257,22 +259,23 @@ Woods Hole, MA
 
 ## Publications {data-icon="file-invoice"}
 
+### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
+
+**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. eLife. 2024; 12:RP87965. doi: [10.7554/eLife.87965.3](https://doi.org/10.7554/eLife.87965.3)
+
+N/A
+
+2024
+
+
 ### An adhesion signaling axis involving Dystroglycan, β1-Integrin, and Cas adaptor proteins regulates the establishment of the cortical glial scaffold.
 
 Wong W, Estep JA, Treptow AM, Rajabli N, **Jahncke JN**, Ubina T, Wright KM, Riccomagno MM. PLoS Biol. 2023 Aug 4;21(8):e3002212. doi: [10.1371/journal.pbio.3002212](https://doi.org/10.1371/journal.pbio.3002212)
 
-
 N/A
 
 2023
 
-### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
-
-**Jahncke JN**, Miller DS, Krush M, Schnell E, Wright KW. eLife. 2023 May 16; 12:RP87965. doi: [10.7554/eLife.87965.2](https://doi.org/10.7554/eLife.87965.2)
-
-N/A
-
-2023
 
 ### The many roles of dystroglycan in nervous system development and function.
 
@@ -342,6 +345,15 @@ Virtual
 2020
 
 ## Abstracts {data-icon="object-group"}
+
+### Purkinje neuron Dystroglycan is required for inhibitory synapse formation and maintenance.
+
+**Jahncke JN**, Schnell E, Wright KM. OHSU NGP Retreat
+
+Government Camp, OR
+
+2023
+
 
 ### Dystrogycan is necessary for the formation of functional inhibitory CCK+/CB1R+ basket synapses in hippocampus.
 
