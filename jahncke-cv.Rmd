@@ -62,18 +62,6 @@ output:
 <i class='fa fa-envelope'></i> [kzito@ucdavis.edu](mailto:kzito@ucdavis.edu)
 
 
-<!-- ## Honors {#skills} -->
-
-<!-- -   2023 Tartar Trust OHSU School of Medicine N.L. Tartar Trust Fellowship -->
-
-<!-- -   2020-2023 Ruth L. Kirschstein National Research Service Award -->
-
-<!-- -   2020 NSF GRFP Honorable Mention -->
-
-<!-- -   ARCS Foundation Scholar -->
-
-<!-- -   Phi Beta Kappa -->
-
 <br><br>
 <!-- *References are available upon request.* -->
 
@@ -112,7 +100,7 @@ Portland, OR
 2024 - 2018
 
 -   Advisor: Kevin M. Wright, PhD, Vollum Institute, OHSU
--   Anticipated graduation March 2024
+
 
 ### University of California, Davis
 
@@ -122,11 +110,13 @@ Davis, CA
 
 2014 - 2010
 
--   Genetics study abroad program in Cambridge, UK and Stockholm, Sweden (Summer 2012)
+<!-- -   Genetics study abroad program in Cambridge, UK and Stockholm, Sweden (Summer 2012) -->
 
 ### Selected Courses
 
 ::: Concise
+<!-- -   Analytical and Quantitative Light Microscopy, MBL, 2024, Woods Hole, MA -->
+-   Behavioral Neuroscience Responsible Conduct of Research, OHSU, 2024, Portland, OR
 -   Neurohackademy, UW, 2023, Seattle, WA
 -   Programming for Biology, CSHL, 2022, Cold Spring Harbor, NY
 -   Biostatistics, OHSU, 2020, Portland, OR
@@ -141,19 +131,32 @@ N/A
 
 ## Research Experience {data-icon="laptop"}
 
+### Postdoctoral Researcher
+
+Vollum Institute, OHSU
+
+Portland, OR
+
+Present - 2024
+
+::: Concise
+-   Systematic analysis of seizure activity in mouse models of dystroglycanopathy.  
+-   Development and validation of gene therapy to alleviate neurological deficits in mouse models of dystroglycanopathy.  
+:::
+
 ### Graduate Student Researcher
 
 Neuroscience Graduate Program, OHSU
 
 Portland, OR
 
-Present - 2018
+2024 - 2018
 
 ::: Concise
 -   Functional characterization of the scaffolding protein Dystroglycan at inhibitory synapses across the brain in mouse models of dystroglycanopathy.
 -   Identified novel interacting partners of Dystroglycan in the central nervous system.
--   Use of R, Python, and Igor to automate data analysis.
 :::
+
 
 ### Staff Research Associate
 
@@ -164,9 +167,10 @@ Davis, CA
 2018 - 2014
 
 ::: Concise
--   Characterization of genetically encoded fluorescent glutamate sensors using 2-photon glutamate uncaging on dendritic spines in CA1 of the hippocampus.
+-   Characterization of genetically encoded fluorescent glutamate sensors using 2-photon glutamate uncaging.
 -   Elucidation of a novel protein signaling cascade in non-ionotropic NMDA receptor mediated LTD.
 :::
+
 
 
 ### Undergraduate Research Assistant
@@ -177,11 +181,11 @@ Davis, CA
 
 2014 - 2011
 
-::: Concise
--   Independent project: Profiling expression and localization of Kv2.1 & Kv2.2 voltage gated potassium channels in the developing rat hippocampus.
--   Assisted in a study investigating the role of D1 dopamine receptors in social withdrawal behavior associated with anxiety and depression.
--   Assisted in a project investigating kappa opioid receptors as a mechanism for behavioral differences between the sexes in response to stress.
-:::
+<!-- ::: Concise -->
+<!-- -   Independent project: Profiling expression and localization of Kv2.1 & Kv2.2 voltage gated potassium channels in the developing rat hippocampus. -->
+<!-- -   Assisted in a study investigating the role of D1 dopamine receptors in social withdrawal behavior associated with anxiety and depression. -->
+<!-- -   Assisted in a project investigating kappa opioid receptors as a mechanism for behavioral differences between the sexes in response to stress. -->
+<!-- ::: -->
 
 \newpage
 
@@ -201,63 +205,27 @@ ARCS Foundation Scholar
 Phi Beta Kappa
 :::
 
-## Teaching Experience {data-icon="chalkboard-teacher"}
-
-### OHSU NGP Bootcamp: Model Organisms
-
-Hands on dissection of mouse and sheep brains.
-
-Portland, OR
-
-2023
-
-
-### Rigor and Reproducibility in Light Microscopy
-
-Lecture on best practices in light microscopy, aimed at incoming neuroscience graduate students.
-
-Portland, OR
-
-2023
-
-
-### OHSU MD Foundations of Medicine: Nervous System and Function
-
-Instruction of first year medical students learning about brain structure and function. Taught human cerebellum and brain stem anatomy in a hands on lab working with donated specimen.
-
-Portland, OR
-
-2023
-
-
-### OHSU NGP Bootcamp: Patch Clamp Electrophysiology
-
-Hands on patch clamp instruction.
-
-Portland, OR
-
-2021
-
-
-### Graduate Level TA Positions
-
-Biostatistics (CONJ 620) Winter 2021, OHSU<br>Cellular Neurophysiology (NEUS 624) Fall 2019, OHSU
-
-Portland, OR
-
-2021, 2019
-
-
-### MBL Neurobiology, Imaging Section
-
-Teaching assistant at the Marine Biological Laboratory Neurobiology Course for the imaging section.
-
-Woods Hole, MA
-
-2018
 
 
 ## Publications {data-icon="file-invoice"}
+
+### Functional domains of Dystroglycan in synapse formation and maintenance at inhibitory synapses in cerebellar cortex.
+
+**Jahncke JN**, Schnell E, Wright KW. *In preparation.*
+
+N/A
+
+In Prep
+
+
+### Tools for Cre-mediated conditional deletion of floxed alleles from developing cerebellar Purkinje cells.
+
+**Jahncke JN**, Wright KW. *In preparation.*
+
+N/A
+
+In Prep
+
 
 ### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
 
@@ -311,6 +279,14 @@ N/A
 
 
 ## Talks {data-icon="microphone"}
+
+### A functional role for Dystroglycan at inhibitory synapses across multiple brain regions
+
+Dissertation Defense
+
+Portland, OR
+
+2024
 
 ### A conserved role for Dystroglycan at inhibitory synapses across multiple brain regions
 
@@ -387,6 +363,63 @@ Bethesda, MD
 
 2018
 
+
+## Teaching Experience {data-icon="chalkboard-teacher"}
+
+### OHSU NGP Bootcamp: Model Organisms
+
+Hands on dissection of mouse and sheep brains.
+
+Portland, OR
+
+2023
+
+
+### Rigor and Reproducibility in Light Microscopy
+
+Lecture on best practices in light microscopy, aimed at incoming neuroscience graduate students.
+
+Portland, OR
+
+2023
+
+
+### OHSU MD Foundations of Medicine: Nervous System and Function
+
+Instruction of first year medical students learning about brain structure and function. Taught human cerebellum and brain stem anatomy in a hands on lab working with donated specimen.
+
+Portland, OR
+
+2023
+
+
+### OHSU NGP Bootcamp: Patch Clamp Electrophysiology
+
+Hands on patch clamp instruction.
+
+Portland, OR
+
+2021
+
+
+### Graduate Level TA Positions
+
+Biostatistics (CONJ 620) Winter 2021, OHSU<br>Cellular Neurophysiology (NEUS 624) Fall 2019, OHSU
+
+Portland, OR
+
+2021, 2019
+
+
+### MBL Neurobiology, Imaging Section
+
+Teaching assistant at the Marine Biological Laboratory Neurobiology Course for the imaging section.
+
+Woods Hole, MA
+
+2018
+
+
 ## Volunteer & Mentorship Experience {data-icon="users"}
 
 ### Alliance for Visible Diversity (AVDS)
@@ -395,11 +428,8 @@ Communications Committee Member
 
 Portland, OR
 
-Present - 2020
+2022 - 2020
 
-<!-- ::: aside -->
-<!-- AVDS is a largely student-run group at OHSU that works to promote diversity, equity, and inclusion at OHSU through community building, education, advocacy, and policy. I serve on the communications committee where I maintain the AVDS website and calendar. -->
-<!-- ::: -->
 
 ### OHSU Graduate School Organization (GSO) <br>Peer Mentoring Program
 
@@ -409,7 +439,6 @@ Portland, OR
 
 2022 - 2019
 
-<!-- The GSO Peer Mentoring Program matches first year graduate students with peer mentors and provides mentors with monthly mentoring materials. I have participated as a peer mentor since the first year the program was offered and have had a great experience getting to know my mentees and helping them navigate their first year of graduate school. -->
 
 ### Women In Science PDX (WIS)
 
@@ -419,9 +448,6 @@ Portland, OR
 
 2020 - 2019
 
-<!-- ::: aside -->
-<!-- We worked with local schools and other organizations to bring hands on educational STEM materials to schools, after-school programs, science fairs, etc. We had simple science experiments designed for multiple age ranges from elementary school to high school aged youths. -->
-<!-- ::: -->
 
 ### NGP Alumni Invite Committee
 
@@ -431,7 +457,6 @@ Portland, OR
 
 2019 - 2018
 
-<!-- *A small committee of Neuroscience Graduate Program (NGP) students who invite past NGP graduates to visit, talk about their career trajectory, and meet with students/trainees.* -->
 
 
 ### Brain Awareness Week - Davis Chapter
@@ -442,11 +467,6 @@ Davis, CA
 
 2018 - 2015
 
-<!-- Organized BAW events, volunteered at the Farmer's Market, and volunteered at the Neuro Fest microscopy and anatomy booths. -->
-
-<!-- -   We hosted public seminars to discuss topics in a variety of neuroscience subfields. I hosted a table with two epifluorescent microscopes to show people brain cells in a variety of tissues and staining techniques. We discussed the anatomy of different types of brain cells throughout the brain and how they communicate to one another. -->
-<!-- -   During public seminars designed to explore neuroscience in an approachable way I had sheep brains and cow eyes, bisected in multiple ways in order to teach the public about brain and eye anatomy (and how they connect) and general regional function -->
-<!-- -   I recruited grad students and undergraduates to help teach passersby about brain anatomy, cell types, comparative anatomy, visual illusions, and more. We also made ourselves available to answer any questions that people might have about the brain. -->
 
 ### UC Davis Neurobiology, Physiology, & Behavior Club
 
@@ -456,9 +476,6 @@ Davis, CA
 
 2015
 
-<!-- ::: aside -->
-<!-- I briefly taught undergraduates about gross brain anatomy and touched on comparative neuroanatomy. I also discussed why we might use a certain species' nervous system as our model system. I had fixed sheep brain specimen for the undergrads to handle and try to identify structures. -->
-<!-- ::: -->
 
 ### Undergraduate Researcher Mentor
 
