@@ -218,13 +218,13 @@ N/A
 In Prep
 
 
-### Tools for Cre-mediated conditional deletion of floxed alleles from developing cerebellar Purkinje cells.
+### Tools for Cre-Mediated Conditional Deletion of Floxed Alleles from Developing Cerebellar Purkinje Cells.
 
-**Jahncke JN**, Wright KW. *In preparation.*
+**Jahncke JN**, Wright KW. eNeuro 22 May 2024, 11 (6) ENEURO.0149-24.2024; doi: [10.1523/ENEURO.0149-24.2024](https://doi.org/10.1523/ENEURO.0149-24.2024)
 
 N/A
 
-In Prep
+2024
 
 
 ### Inhibitory CCK+ basket synapse defects in mouse models of dystroglycanopathy.
