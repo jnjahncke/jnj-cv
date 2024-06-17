@@ -115,7 +115,7 @@ Davis, CA
 ### Selected Courses
 
 ::: Concise
-<!-- -   Analytical and Quantitative Light Microscopy, MBL, 2024, Woods Hole, MA -->
+-   Analytical and Quantitative Light Microscopy, MBL, 2024, Woods Hole, MA
 -   Behavioral Neuroscience Responsible Conduct of Research, OHSU, 2024, Portland, OR
 -   Neurohackademy, UW, 2023, Seattle, WA
 -   Programming for Biology, CSHL, 2022, Cold Spring Harbor, NY
