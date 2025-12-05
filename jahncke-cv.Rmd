@@ -75,7 +75,7 @@ Last updated on `r Sys.Date()`.
 
 # Main
 
-## Jennifer Jahncke {#title}
+## Jennifer Jahncke, PhD {#title}
 
 `r fontawesome::fa(name = "location-dot")` Portland, OR
 
@@ -140,8 +140,8 @@ Portland, OR
 Present - 2024
 
 ::: Concise
--   Systematic analysis of seizure activity in mouse models of dystroglycanopathy.  
--   Development and validation of gene therapy to alleviate neurological deficits in mouse models of dystroglycanopathy.  
+-   Identification and characterization of an evolutionarily conserved novel architecture of cerebellar GABAergic synapses.
+-   Development and initial validation of gene therapy to alleviate neurological deficits in mouse models of dystroglycanopathy.
 :::
 
 ### Graduate Student Researcher
@@ -209,13 +209,13 @@ Phi Beta Kappa
 
 ## Publications {data-icon="file-invoice"}
 
-### Functional domains of Dystroglycan in synapse formation and maintenance at inhibitory synapses in cerebellar cortex.
+### Distinct functional domains of Dystroglycan regulate inhibitory synapse formation and maintenance in cerebellar Purkinje cells.
 
-**Jahncke JN**, Schnell E, Wright KW. *In preparation.*
+**Jahncke JN**, Schnell E, Wright KW. Commun Biol. 2025; 8(1):878. doi: [10.1038/s42003-025-08323-1](https://doi.org/10.1038/s42003-025-08323-1)
 
 N/A
 
-In Prep
+2025
 
 
 ### Tools for Cre-Mediated Conditional Deletion of Floxed Alleles from Developing Cerebellar Purkinje Cells.
@@ -280,6 +280,14 @@ N/A
 
 ## Talks {data-icon="microphone"}
 
+### Go Nuts for Donuts: Molecular determinants of cerebellar GABAergic donut synapses
+
+Vollum Works In Progress
+
+Portland, OR
+
+2024
+
 ### A functional role for Dystroglycan at inhibitory synapses across multiple brain regions
 
 Dissertation Defense
@@ -322,6 +330,14 @@ Virtual
 
 ## Abstracts {data-icon="object-group"}
 
+### Distinct domains of Dystroglycan regulate GABAergic synapse formation and function in cerebellar Purkinje cells.
+
+**Jahncke JN**, Schnell E, Wright KM. Inhibition in the CNS GRC
+
+Newry, ME
+
+2025
+
 ### Purkinje neuron Dystroglycan is required for inhibitory synapse formation and maintenance.
 
 **Jahncke JN**, Schnell E, Wright KM. OHSU NGP Retreat
@@ -329,7 +345,6 @@ Virtual
 Government Camp, OR
 
 2023
-
 
 ### Dystrogycan is necessary for the formation of functional inhibitory CCK+/CB1R+ basket synapses in hippocampus.
 
@@ -366,13 +381,22 @@ Bethesda, MD
 
 ## Teaching Experience {data-icon="chalkboard-teacher"}
 
+### MBL Analytical and Quantitative Light Microscopy
+
+Teaching assistant at the Marine Biological Laboratory AQLM course.
+
+Woods Hole, MA
+
+2025
+
+
 ### OHSU NGP Bootcamp: Model Organisms
 
-Hands on dissection of mouse and sheep brains.
+Hands on dissection of mouse and sheep brains to familiarize incoming graduate students with practical neuroanatomy of model system organisms.
 
 Portland, OR
 
-2023
+2023 - 2025
 
 
 ### Rigor and Reproducibility in Light Microscopy
@@ -381,7 +405,7 @@ Lecture on best practices in light microscopy, aimed at incoming neuroscience gr
 
 Portland, OR
 
-2023
+2023 - 2025
 
 
 ### OHSU MD Foundations of Medicine: Nervous System and Function
@@ -390,7 +414,7 @@ Instruction of first year medical students learning about brain structure and fu
 
 Portland, OR
 
-2023
+2023 - 2025
 
 
 ### OHSU NGP Bootcamp: Patch Clamp Electrophysiology
@@ -421,6 +445,26 @@ Woods Hole, MA
 
 
 ## Volunteer & Mentorship Experience {data-icon="users"}
+
+### Neuroscience Graduate Program Rotation Student Mentor
+
+Mentored students through their 8-week laboratory rotation, overseeing their laboratory work, data analysis, and data presentation. In total I have mentored six rotation students.
+
+Portland, OR
+
+2022 - 2026
+
+<!-- Milana Krush (2022), Madison Hupp (2023), Nick Ambiel (2024), Frederika Sullivan (2024), Ashley Anderson (2025), Sandra Salas (2026) -->
+
+### Undergraduate Researcher Mentor
+
+Mentored an undergraduate research intern as part of the two month OHSU NGP Summer Intern Program. Oversaw their laboratory work, data analysis, oral presentation, and poster presentation.
+
+Portland, OR
+
+2024
+
+<!-- Lana Ibrahem (2024) -->
 
 ### Alliance for Visible Diversity (AVDS)
 
