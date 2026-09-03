@@ -40,29 +40,49 @@ output:
 -   `r fontawesome::fa(name = "dna")` Mouse genetics
 
 ::: {style="font-size: 0.65rem"}
-*Extended skills: genetic manipulation (in mouse), immunohistochemistry, confocal microscopy, electrophysiology, biochemistry, immunoprecipitation, SDS-PAGE, western blot, virus design, intracerebroventricular virus injection, primer design, PCR, 2-photon microscopy, glutamate uncaging, organotypic slice culture, biolistic transfection, genetically encoded fluorescent biosensors, experimental design, data analysis, figure design, Adobe Photoshop, Adobe Illustrator, R, Python, Bash, Git*
+*Extended skills: Cre-lox genetics, immunohistochemistry, confocal microscopy, electrophysiology, biochemistry, immunoprecipitation, SDS-PAGE, western blot, virus design, intracerebroventricular virus injection, primer design, PCR, 2-photon microscopy, glutamate uncaging, organotypic slice culture, biolistic transfection, genetically encoded fluorescent biosensors, experimental design, data analysis, figure design, Adobe Photoshop, Adobe Illustrator, R, Python, Bash, Git*
 :::
 
 <br>
 
-## References {#skills}
+<!-- ::: aside -->
+<!-- <span style="font-weight: 575; font-size: 0.8rem">HONORS</span> -->
+<!-- <br> -->
+<!-- 2023 Vollum/NGP Paper of the Year <br> -->
+<!-- 2023-2024 OHSU School of Medicine N.L. Tartar Trust Research Fellowship <br> -->
+<!-- 2020-2023 Ruth L. Kirschstein National Research Service Award <br> -->
+<!-- 2020 NSF GRFP Honorable Mention <br> -->
+<!-- ARCS Foundation Scholar <br> -->
+<!-- Phi Beta Kappa -->
+<!-- ::: -->
 
-**Kevin M. Wright, PhD** \
-<i class='fa fa-map-marker-alt'></i> Vollum Institute, OHSU \
-<i class='fa fa-envelope'></i> [wrighke@ohsu.edu](mailto:wrighke@ohsu.edu)
-<br>
+## Honors {#skills}
 
-**Eric Schnell, MD, PhD** \
-<i class='fa fa-map-marker-alt'></i> Anesthesiology and Perioperative Medicine, School of Medicine, OHSU \
-<i class='fa fa-envelope'></i> [schneler@ohsu.edu](mailto:schneler@ohsu.edu)
-<br>
+2023 Vollum/NGP Paper of the Year <br>
+2023-2024 OHSU School of Medicine N.L. Tartar Trust Research Fellowship <br>
+2020-2023 Ruth L. Kirschstein National Research Service Award <br>
+2020 NSF GRFP Honorable Mention <br>
+ARCS Foundation Scholar <br>
+Phi Beta Kappa
 
-**Karen Zito, PhD** \
-<i class='fa fa-map-marker-alt'></i> Center for Neuroscience, UC Davis \
-<i class='fa fa-envelope'></i> [kzito@ucdavis.edu](mailto:kzito@ucdavis.edu)
+<!-- ## References {#skills} -->
+
+<!-- **Kevin M. Wright, PhD** \ -->
+<!-- <i class='fa fa-map-marker-alt'></i> Vollum Institute, OHSU \ -->
+<!-- <i class='fa fa-envelope'></i> [wrighke@ohsu.edu](mailto:wrighke@ohsu.edu) -->
+<!-- <br> -->
+
+<!-- **Eric Schnell, MD, PhD** \ -->
+<!-- <i class='fa fa-map-marker-alt'></i> Anesthesiology and Perioperative Medicine, School of Medicine, OHSU \ -->
+<!-- <i class='fa fa-envelope'></i> [schneler@ohsu.edu](mailto:schneler@ohsu.edu) -->
+<!-- <br> -->
+
+<!-- **Karen Zito, PhD** \ -->
+<!-- <i class='fa fa-map-marker-alt'></i> Center for Neuroscience, UC Davis \ -->
+<!-- <i class='fa fa-envelope'></i> [kzito@ucdavis.edu](mailto:kzito@ucdavis.edu) -->
 
 
-<br><br>
+<!-- <br><br> -->
 <!-- *References are available upon request.* -->
 
 
@@ -100,6 +120,7 @@ Portland, OR
 2024 - 2018
 
 -   Advisor: Kevin M. Wright, PhD, Vollum Institute, OHSU
+-   Dissertation: A functional role for Dystroglycan at inhibitory synapses across multiple brain regions
 
 
 ### University of California, Davis
@@ -140,6 +161,7 @@ Portland, OR
 Present - 2024
 
 ::: Concise
+-   Molecular and morphological characterization of a neural circuit lacking two postsynaptic cell adhesion molecules, resulting in a complete loss of a population of synapses.
 -   Identification and characterization of an evolutionarily conserved novel architecture of cerebellar GABAergic synapses.
 -   Development and initial validation of gene therapy to alleviate neurological deficits in mouse models of dystroglycanopathy.
 :::
@@ -187,27 +209,17 @@ Davis, CA
 <!-- -   Assisted in a project investigating kappa opioid receptors as a mechanism for behavioral differences between the sexes in response to stress. -->
 <!-- ::: -->
 
-\newpage
-
-::: aside
-<span style="font-weight: 575; font-size: 1.1rem">HONORS</span>
-<br>
-2023 Vollum/NGP Paper of the Year
-
-2023-2024 OHSU School of Medicine N.L. Tartar Trust Research Fellowship
-
-2020-2023 Ruth L. Kirschstein National Research Service Award
-
-2020 NSF GRFP Honorable Mention
-
-ARCS Foundation Scholar
-
-Phi Beta Kappa
-:::
-
 
 
 ## Publications {data-icon="file-invoice"}
+
+### Molecular assemblies and pharmacology of cerebellar GABAA receptors.
+
+Sun C, **Jahncke JN**, Wright KW, Gouaux E. Proc Natl Acad Sci U S A. 2026;123(6):e2524504123. doi:10.1073/pnas.2524504123. doi: [10.1073/pnas.2524504123](https://doi.org/10.1073/pnas.2524504123)
+
+N/A
+
+2026
 
 ### Distinct functional domains of Dystroglycan regulate inhibitory synapse formation and maintenance in cerebellar Purkinje cells.
 
@@ -330,6 +342,15 @@ Virtual
 
 ## Abstracts {data-icon="object-group"}
 
+### A conserved synaptic nanoarchitecture at a subset of cerebellar synapses lays the groundwork for strong GABAergic input onto Purkinje cell primary dendrites.
+
+**Jahncke JN**, Wright KM. CNCM Neural Circuits in Health & Disease
+
+Irvine, CA
+
+2026
+
+
 ### Distinct domains of Dystroglycan regulate GABAergic synapse formation and function in cerebellar Purkinje cells.
 
 **Jahncke JN**, Schnell E, Wright KM. Inhibition in the CNS GRC
@@ -387,7 +408,7 @@ Teaching assistant at the Marine Biological Laboratory AQLM course.
 
 Woods Hole, MA
 
-2025
+2025 - 2026
 
 
 ### OHSU NGP Bootcamp: Model Organisms
@@ -405,7 +426,7 @@ Lecture on best practices in light microscopy, aimed at incoming neuroscience gr
 
 Portland, OR
 
-2023 - 2025
+2023 - 2026
 
 
 ### OHSU MD Foundations of Medicine: Nervous System and Function
