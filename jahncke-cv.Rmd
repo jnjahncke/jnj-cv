@@ -27,7 +27,7 @@ output:
 
 ## Skills {#skills}
 
--   `r fontawesome::fa(name = "code")` R, Python, Bash, Git
+-   `r fontawesome::fa(name = "code")` R, Python, SQL, Bash, Git
 
 -   `r fontawesome::fa(name = "chart-line")` Statistical analysis
 
@@ -40,7 +40,7 @@ output:
 -   `r fontawesome::fa(name = "dna")` Mouse genetics
 
 ::: {style="font-size: 0.65rem"}
-*Extended skills: Cre-lox genetics, immunohistochemistry, confocal microscopy, electrophysiology, biochemistry, immunoprecipitation, SDS-PAGE, western blot, virus design, intracerebroventricular virus injection, primer design, PCR, 2-photon microscopy, glutamate uncaging, organotypic slice culture, biolistic transfection, genetically encoded fluorescent biosensors, experimental design, data analysis, figure design, Adobe Photoshop, Adobe Illustrator, R, Python, Bash, Git*
+*Extended skills: Cre-lox genetics, immunohistochemistry, confocal microscopy, electrophysiology, biochemistry, immunoprecipitation, SDS-PAGE, western blot, virus design, intracerebroventricular virus injection, primer design, PCR, 2-photon microscopy, glutamate uncaging, organotypic slice culture, biolistic transfection, genetically encoded fluorescent biosensors, experimental design, data analysis, hypothesis testing, cluster analysis, figure design, Adobe Photoshop, Adobe Illustrator, R, Python, SQL, Bash, Git*
 :::
 
 <br>
@@ -209,7 +209,55 @@ Davis, CA
 <!-- -   Assisted in a project investigating kappa opioid receptors as a mechanism for behavioral differences between the sexes in response to stress. -->
 <!-- ::: -->
 
+## Programming Projects {data-icon="diagram-project"}
 
+### Calculating the o-index
+
+UW Neurohackademy
+
+Seattle, WA
+
+2023
+
+A group project as part of UW Neurohackademy 2023. We wrote a program in Python that scraped open access publications for words indicating that data/code was publicly available. For a given author we then aggregated the "openness" of all of their published works to calculate an "o-index" for that given author, meant to be used as a standardized metric of openness. We wrote and deployed the program as a Shiny app on shinyapps.io.
+
+*[Code available on GitHub](https://github.com/jnjahncke/o-index)*
+
+### Analyzing differentially regulated elements in response to heat shock across species
+
+CSHL Programming for Biology
+
+Cold Spring Harbor, NY
+
+2022
+
+A group project as part of CSHL Programming for Biology 2022. We used publicly available datasets for experiments wherein different species were exposed to heat shock. We analyzed deferentially expressed genes, GO terms, and affected protein domains for all species to see which genes/terms/domains are changed similarly across species.
+
+*[Code available on GitHub](https://github.com/jnjahncke/hot-seq-summer)*
+
+### Deployed web application for randomly assigning application reviewers
+
+Oregon Health & Science University
+
+Portland, OR
+
+2022 
+
+A solo project where I was tasked with writing a python program that would take in a list of applicants to our graduate program and a list of reviewers and randomly assign reviewers to applicants such that each application is reviewed by n reviewers where n is defined by the user and ensures that faculty reviewers are the majority vote on each application. This application was born out of a need to ensure fair application review within our graduate program application process. The program was deployed as a Shiny app using Shiny for Python and has been used for hundreds of applications each year since the 2022 application cycle.
+
+*[Code available on GitHub](https://github.com/jnjahncke/reviewer_randomizer)*
+
+### Web scraping and GPS coordinate clustering for Portland food weeks
+
+N/A
+
+Portland, OR
+
+2025 - 2021
+
+A personal project born out of a love for the Portland food scene. Several times a year, Portland hosts these food weeks (pizza week, wing week, nacho week, etc.) where for one week only participating restaurants provide a dish on theme for the week and at a set price. Dozens of restaurants participate and I got tired of having to click through a bunch of links to see what each restaurant had to offer so I wrote a script in R to scrape the web and build out a spreadsheet with all of the offerings. I then deployed an R Shiny app where I could filter the table based on various qualities and vote on which ones I wanted to go to. Then I used GIS data to plot the restaurant locations and k-means cluster analysis to cluster restaurants based on GPS coordinates to identify which restaurants I might hit up in one go.
+
+*[Write up available on my website](https://jennifer-jahncke.netlify.app/post/pizza-week-2024/), [Full code available on GitHub](https://github.com/jnjahncke/food-weeks)*
 
 ## Publications {data-icon="file-invoice"}
 
